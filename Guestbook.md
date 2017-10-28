@@ -24,3 +24,4 @@ This is my first pull request :octocat:!
 * [Pooja](http://twitter.com/whoamitbh)
 * [Nabil Belahouane;](http://twitter.com/FakeDealNabil)
 * [Amy!](https://i.ytimg.com/vi/JalVHgKqBXs/maxresdefault.jpg)
+* [jaro] (https://github.com/jermenkoo)
